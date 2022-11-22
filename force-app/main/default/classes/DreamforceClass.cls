@@ -1,13 +1,13 @@
 public with sharing class DreamforceClass {
 
-    //hello
+    //hello pablo
     
     public static String sayHello(){
         return 'Hello dreamforce 22!';
     }
 
     public static String bye(){
-        //please return bye
+        String = 'hello';
         return 'bye';
     }
 
@@ -22,7 +22,7 @@ public with sharing class DreamforceClass {
         //added from dx repo!
         //i made this change locally
         //i made this change on the sf server
-        //change 1
+        return void;
     }
 
     public static Boolean customerEngineers(){
