@@ -11,6 +11,7 @@ public with sharing class DreamforceClass {
     public static void check(){
         //second change
         //third line
+        //4th line
     }
 
     public static void newMethod(){
