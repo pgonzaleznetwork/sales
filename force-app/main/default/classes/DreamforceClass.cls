@@ -12,6 +12,7 @@ public with sharing class DreamforceClass {
         //second change
         //third line
         //4th line
+        //5th line
     }
 
     public static void newMethod(){
