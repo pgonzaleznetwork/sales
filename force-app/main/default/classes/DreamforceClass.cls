@@ -16,6 +16,7 @@ public with sharing class DreamforceClass {
         //third line
         //4th line
         //5th line
+        //6th line
     }
 
     public static void newMethod(){
